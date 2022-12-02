@@ -1,11 +1,11 @@
 # 🪐 Hello, I'm Karen!
-💻 I'm currently working on [MyViews](https://github.com/karengcecena/project-movie-app)
-📖 I'm a total book worm
+💻 I'm currently working on [MyViews](https://github.com/karengcecena/project-movie-app)<br>
+📖 I'm a total book worm<br>
 📹 I'm a lover of using photography and videography to step our of my comfort zone and share my life
 
 
 ## 🌐 Where to Find Me
-📧 karengcecena@gmail.com
+📧 karengcecena@gmail.com<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karengcecena)
 [![Youtube](https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCp-Hro7F3127NBXsNrUuO6g)
 
@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=karengcecena&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/karengcecena/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/karengcecena/github-readme-stats#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karengcecena&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karengcecena&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=karengcecena&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
