@@ -1,7 +1,7 @@
 # 🪐 Hello, I'm Karen!
 💻 I'm currently working on [MyViews](https://github.com/karengcecena/project-movie-app)<br>
 📖 I'm a total book worm<br>
-📹 I'm a lover of using photography and videography to step our of my comfort zone and share my life
+📹 I'm also currently working on using photography and videography to step our of my comfort zone and share my life!
 
 
 ## 🌐 Where to Find Me:
