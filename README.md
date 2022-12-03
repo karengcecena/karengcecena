@@ -17,7 +17,11 @@
 ## 📊 GitHub Stats:
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=karengcecena&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/karengcecena/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=karengcecena&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/karengcecena/github-readme-stats#gh-light-mode-only)
-<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karengcecena&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karengcecena&theme=gotham#gh-dark-mode-only)
+![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=karengcecena&theme=default#gh-light-mode-only)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=karengcecena&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
