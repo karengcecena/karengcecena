@@ -23,4 +23,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karengcecena&theme=default&layout=compact#gh-light-mode-only)](https://github.com/karengcecena/github-readme-stats#gh-light-mode-only)
 
 ---
-[![Visit Count](https://visitcount.itsvg.in/api?id=karengcecena&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=karengcecena&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
