@@ -1,5 +1,6 @@
 # 🪐 Hello, I'm Karen!
 💻 I'm currently working on [MyViews](https://github.com/karengcecena/project-movie-app)<br>
+🎄 I'm currently participating in the [Advent of Code 2022](https://adventofcode.com/2022/about)<br>
 📖 I'm a total book worm<br>
 📹 I'm also currently working on using photography and videography to step our of my comfort zone and share my life!
 
@@ -22,4 +23,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karengcecena&theme=default&layout=compact#gh-light-mode-only)](https://github.com/karengcecena/github-readme-stats#gh-light-mode-only)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=karengcecena&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=karengcecena&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
