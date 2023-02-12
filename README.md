@@ -1,11 +1,16 @@
 # 🪐 Hello, I'm Karen!
-💻 I'm currently working on [MyViews](https://github.com/karengcecena/project-movie-app) & [Read Like Rory](https://github.com/karengcecena/ReadLikeRory)<br>
-🎬 I love sharing & talking about movies & tv shows<br>
+🌵 I grew up in a small desert town, hence my love for adventuring & the outdoors<br>
+📚 I love puzzles & learning new things<br>
 📖 I'm a total book worm<br>
-📹 I'm also currently working on using photography and videography to step our of my comfort zone and share my life!
+🎬 I love sharing & talking about movies & tv shows<br>
+📹 I'm also currently working on using photography and videography to step our of my comfort zone and share my life!<br>
+
+## 👩🏽‍💻 Projects:
+💻 Check out my projects [MyViews](https://github.com/karengcecena/project-movie-app) & [Read Like Rory](https://github.com/karengcecena/ReadLikeRory)!
 
 
 ## 🌐 Where to Find Me:
+[![Portfolio](https://img.shields.io/badge/-Portfolio-forestgreen?style=for-the-badge&logo=Portfolio&logoColor=white)](http://18.237.83.137/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karengcecena@gmail.com?subject=The%20subject%20of%20the%20mail)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karengcecena)
 [![Youtube](https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCp-Hro7F3127NBXsNrUuO6g)
