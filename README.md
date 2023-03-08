@@ -6,7 +6,7 @@
 📹 I'm also currently working on using photography and videography to step our of my comfort zone and share my life!<br>
 
 ## 👩🏽‍💻 Projects:
-💻 Check out my projects [MyViews](https://github.com/karengcecena/project-movie-app) & [Read Like Rory](https://github.com/karengcecena/ReadLikeRory)!
+💻 Check out my projects [MyViews](https://github.com/karengcecena/project-movie-app) & [ReadLikeRory](https://github.com/karengcecena/ReadLikeRory)!
 
 
 ## 🌐 Where to Find Me:
