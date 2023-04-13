@@ -10,7 +10,7 @@
 
 
 ## 🌐 Where to Find Me:
-[![Portfolio](https://img.shields.io/badge/-Portfolio-forestgreen?style=for-the-badge&logo=Portfolio&logoColor=white)](http://18.237.83.137/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-forestgreen?style=for-the-badge&logo=Portfolio&logoColor=white)](https://karengcecena.github.io/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karengcecena@gmail.com?subject=The%20subject%20of%20the%20mail)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karengcecena)
 [![Youtube](https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCp-Hro7F3127NBXsNrUuO6g)
